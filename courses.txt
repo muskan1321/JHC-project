@@ -1,6 +1,4 @@
 AWS
 DevOps
 python
-java
-
         
