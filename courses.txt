@@ -1,5 +1,4 @@
 AWS
 DevOps
 python
-send_email
-
+        
